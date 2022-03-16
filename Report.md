@@ -101,3 +101,7 @@ see if episode finished
 Train 20 agents using DDPG
 Plot the scores/rewards
 
+For future work:
+I like to explore A3C and A2C and compare the speed and accuracy of the three algorithms.
+
+
